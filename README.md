@@ -8,14 +8,13 @@
 </a>
 <a href="mailto:siddharthrajputbhopal@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-<! –– </a>
+<!-- </a>
 <a href="http:">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-––> 
+</a> -->
 <br />
-### Hi there 👋 I am [Siddharth Rajput](https://siddharth-rajput.github.io/)
-# About:
+
+### About Me 🚀
 ```
 Network engineer⚡, Penetration tester🔭, DevOps✨ and Bug Hunter👾.
 I am a geek who is interested in cyber security, Linux Automation and
