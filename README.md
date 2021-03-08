@@ -1,3 +1,19 @@
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Siddharth!](https://siddharth-rajput.github.io/) 
+
+<a href="https://www.linkedin.com/in/sid-rajput/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/Sidrajput1998">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:siddharthrajputbhopal@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<! –– </a>
+<a href="http:">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+––> 
+<br />
 ### Hi there 👋 I am [Siddharth Rajput](https://siddharth-rajput.github.io/)
 # About:
 ```
