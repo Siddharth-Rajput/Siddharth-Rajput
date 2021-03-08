@@ -15,7 +15,8 @@
 <br />
 
 ### About Me 🚀
-🎓 Network engineer⚡, Penetration tester🔭, DevOps✨ and Bug Hunter👾. I am a geek who is interested in cyber security, Linux Automation and programming. </br>
+⚡ Network engineer, 🔭Penetration tester, ✨DevOps and 👾Bug Hunter. </br>
+🎓 I am a geek who is interested in cyber security, Linux Automation and programming. </br>
 👨‍💻 I am fond of cyber security and IT fields. And always strive to learn more and obtain more knowledge. </br>
 
 
