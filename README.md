@@ -8,10 +8,10 @@
 </a>
 <a href="mailto:siddharthrajputbhopal@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-<!-- </a>
-<a href="http:">
+</a>
+<a href="https://medium.com/@siddharth_rajput/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> -->
+</a>
 <br />
 
 ### About Me 🚀
@@ -27,7 +27,7 @@
 - 📫 How to reach me: ...[Here](https://www.linkedin.com/in/sid-rajput/)
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Siddharth-Rajput.Siddharth-Rajput)
 [comment]: <> (# CVE:)
 
 <!--
