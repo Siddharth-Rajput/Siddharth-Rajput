@@ -28,7 +28,6 @@
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Siddharth-Rajput.Siddharth-Rajput)
-[comment]: <> (# CVE:)
 
 <!--
-**Siddharth-Rajput/Siddharth-Rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Siddharth-Rajput/Siddharth-Rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
